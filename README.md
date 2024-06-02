@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 <p align="center">
 <img 
@@ -81,3 +82,7 @@ Ao final deve se exibir uma mensagem:
 ---
 
 ⌨️ com 💜 por [Hemerson Abreu](https://github.com/azimutalx)
+=======
+# Classes-de-um-jogo
+Lógica de programação - desafio 3
+>>>>>>> 01670a22bf6fe64352bd9fc1808a5139957ee44b
